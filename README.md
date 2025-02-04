@@ -81,6 +81,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Here are some screenshots of the application in action:
 
 ![screenshot](assets/images/screenshot1.png)
-![Labor Performance Screenshot](https://link-to-screenshot2.com)
-
+![screenshot](assets/images/screenshot2.png)
+![screenshot](assets/images/screenshot3.png)
+![screenshot](assets/images/screenshot4.png)
+![screenshot](assets/images/screenshot5.png)
+![screenshot](assets/images/screenshot6.png)
 
