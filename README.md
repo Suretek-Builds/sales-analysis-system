@@ -80,7 +80,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Here are some screenshots of the application in action:
 
-![Dashboard Screenshot](https://link-to-screenshot1.com)
+![screenshot](assets/images/screenshot1.png)
 ![Labor Performance Screenshot](https://link-to-screenshot2.com)
 
 
