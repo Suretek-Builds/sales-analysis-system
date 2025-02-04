@@ -44,7 +44,7 @@ A powerful web-based platform designed to help businesses gain insights into the
 
 ```bash
 git clone https://github.com/your-username/sales-analysis-system.git
-cd labor-scheduling-management
+cd sales-analysis-system
 ```
 Install dependencies:
 ```bash
