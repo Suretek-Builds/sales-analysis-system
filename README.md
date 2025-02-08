@@ -1,4 +1,4 @@
-# Sales Analysis System
+# Sales Analysis System 
 
 A powerful web-based platform designed to help businesses gain insights into their sales performance. With comprehensive data analysis and real-time reports, the system enables efficient decision-making to optimize sales strategies, boost profitability, and forecast future trends.
 
